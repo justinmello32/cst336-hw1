@@ -1,27 +1,22 @@
 body {
-    background-color: black;
-    color: gray;
+    background-color: white;
+    color: black;
 }
+
 header, main, nav, footer {
     text-align: center;
 }
-nav a {    /* links within "nav" container */
+nav a {    
     padding: 15px;
     padding-bottom: 4px;
-    font-size: 1.8em;
-    text-decoration: none;   /* removes underline */
-    color: white;            /* by default, links are blue */
-}
-nav a:hover {      /* psuedo class */
-    border-bottom: 2px orange solid;
-    font-size: 2em;
-    transition: .9s;         /*transition effect */
+    font-size: 1.5em;
+    text-decoration: none;   
+    color: black;            
 }
 
 nav .active {
-    background-color: #112e51;
-    color: white;
-    border-bottom: 2px orange solid;
+    color: black;
+    border-bottom: 2px blue solid;
 }
 main {
     display: flex;
