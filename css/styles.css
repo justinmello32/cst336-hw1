@@ -3,7 +3,7 @@ body {
     color: black;
 }
 a {
-	color: blue;
+	color: #007bff;
 }
 header {
 	padding-top: 1rem;
@@ -19,6 +19,9 @@ nav a {
     color: black;   
     line-height: 1rem;       
 }
+img {
+    border-radius: 15px;
+}
 #leaderboard {
 	margin-bottom: 1rem;
 }
@@ -29,7 +32,7 @@ figcaption {
 
 nav .active {
     color: black;
-    border-bottom: 2px blue solid;
+    border-bottom: 2px #007bff solid;
 }
 main {
     display: flex;
