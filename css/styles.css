@@ -5,6 +5,9 @@ body {
 a {
 	color: blue;
 }
+header {
+	padding-top: 1rem;
+}
 header, main, nav, footer {
     text-align: center;
 }
