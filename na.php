@@ -13,7 +13,7 @@ in html
 <!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8">
-        <title>Network Adminstrator</title>
+        <title>Network Administrator</title>
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link href="css/styles.css" rel="stylesheet" type="text/css"/>
@@ -24,14 +24,14 @@ in html
     <!-- This is where we place the content of our website -->
     <body>
         <header>
-            <h1>Network Adminstrator</h1>
+            <h1>Network Administrator</h1>
         </header>
         <hr />
         <nav>
             <a href="index.php">Home</a>
             <a href="ds.php">Desktop Support</a>
             <a href="sa.php">System Adminstrator</a>
-            <a href="na.php" class="active">Network Adminstrator</a>
+            <a href="na.php" class="active">Network Administrator</a>
         </nav>
         
         <br /><br />

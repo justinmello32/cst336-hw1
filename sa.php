@@ -13,7 +13,7 @@ in html
 <!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8">
-        <title>System Adminstrator</title>
+        <title>System Administrator</title>
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -25,7 +25,7 @@ in html
     <!-- This is where we place the content of our website -->
     <body>
         <header>
-            <h1>System Adminstrator</h1>
+            <h1>System Administrator</h1>
         </header>
         <hr />
         <nav>

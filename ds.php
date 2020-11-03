@@ -31,8 +31,8 @@ in html
         <nav>
             <a href="index.php">Home</a>
             <a href="ds.php" class="active">Desktop Support</a>
-            <a href="sa.php">System Adminstrator</a>
-            <a href="na.php">Network Adminstrator</a>
+            <a href="sa.php">System Administrator</a>
+            <a href="na.php">Network Administrator</a>
         </nav>
         
         <br /><br />
