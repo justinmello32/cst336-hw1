@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <!--
 
 First Website
@@ -43,7 +43,7 @@ in html
             <div class="container">
                 <div class="row">
                     <div id="leaderboard" class="col">
-                        <img src="img/it.jpg" class="img-fluid">
+                        <img src="img/it.jpg" alt="Graphic for IT" class="img-fluid">
                         <figcaption>Graphic for the exciting and dynamic field of IT</figcaption>
                     </div>
                 </div>

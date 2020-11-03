@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <!--
 
 First Website
@@ -41,7 +41,7 @@ in html
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <img src="img/network-administrator.jpg" class="img-fluid">
+                        <img src="img/network-administrator.jpg" alt="Network Adminstrator working in the field." class="img-fluid">
                         <figcaption>Picture of network administrator working in a network center.</figcaption>
                     </div>
                     <div class="col">
