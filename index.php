@@ -31,10 +31,10 @@ in html
         </header>
         <hr />
         <nav>
-            <a href="index.html" class="active">Home</a>
-            <a href="ds.html">Desktop Support</a>
-            <a href="sa.html">System Adminstrator</a>
-            <a href="na.html">Network Adminstrator</a>
+            <a href="index.php" class="active">Home</a>
+            <a href="ds.php">Desktop Support</a>
+            <a href="sa.php">System Adminstrator</a>
+            <a href="na.php">Network Adminstrator</a>
         </nav>
         <hr />
         <br /><br />
