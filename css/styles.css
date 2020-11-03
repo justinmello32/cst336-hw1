@@ -33,6 +33,7 @@ figcaption {
 nav .active {
     color: black;
     border-bottom: 2px #007bff solid;
+    font-weight: bold;
 }
 main {
     display: flex;
