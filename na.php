@@ -41,8 +41,10 @@ in html
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <img src="img/network-administrator.jpg" alt="Network Adminstrator working in the field." class="img-fluid">
-                        <figcaption>Picture of network administrator working in a network center.</figcaption>
+                        <figure>
+                            <img src="img/network-administrator.jpg" alt="Network Adminstrator working in the field." class="img-fluid">
+                            <figcaption>Picture of network administrator working in a network center.</figcaption>
+                        </figure>
                     </div>
                     <div class="col">
                         <p>Network administrators have similar responsibilities that a system administrator would except their primary focus is on the overall organization’s network infrastructure. Some of the responsibilities include building network infrastructure, managing servers and routers as well as managing firewalls and VPN. Individuals looking to be network administrators must have an incredible knowledge of networking interfaces as well as designing and implementing LANs.

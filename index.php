@@ -43,8 +43,10 @@ in html
             <div class="container">
                 <div class="row">
                     <div id="leaderboard" class="col">
-                        <img src="img/it.jpg" alt="Graphic for IT" class="img-fluid">
-                        <figcaption>Graphic for the exciting and dynamic field of IT</figcaption>
+                        <figure>
+                            <img src="img/it.jpg" alt="Graphic for IT" class="img-fluid">
+                            <figcaption>Graphic for the exciting and dynamic field of IT</figcaption>
+                        </figure>
                     </div>
                 </div>
                 <div class="row">

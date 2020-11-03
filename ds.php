@@ -41,8 +41,10 @@ in html
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <img src="img/desktop-support.jpg" alt="Desktop Support tech working" class="img-fluid">
-                        <figcaption>Picture of desktop support tech working the field.</figcaption>
+                        <figure>
+                            <img src="img/desktop-support.jpg" alt="Desktop Support tech working" class="img-fluid">
+                            <figcaption>Picture of desktop support tech working the field.</figcaption>
+                        </figure>
                     </div>
                     <div class="col">
                         <p>Desktop support is generally an introductory position in which a desktop support technician will provide break fix assistance to users that are having trouble with their machines.Desktop support technicians are also generally responsible for configuration and installation of operating systems and providing support for updates and third party applications. Some desktop support positions will also be responsible for not only providing support for desktops but also mobile devices and possibly servers.

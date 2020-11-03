@@ -40,9 +40,11 @@ in html
         <main>
             <div class="container">
                 <div class="row">
-                    <div id="leaderboard" class="col">
-                        <img src="img/system-administrator.jpg" alt="System Adminstrator working in the field." class="img-fluid">
-                        <figcaption>Picture of System Adminstrator working in network center.</figcaption>
+                    <div id="leaderboard" class="col">\
+                        <figure>
+                            <img src="img/system-administrator.jpg" alt="System Adminstrator working in the field." class="img-fluid">
+                            <figcaption>Picture of System Adminstrator working in network center.</figcaption>
+                        </figure>
                     </div>
                 </div>
                 <div class="row">
