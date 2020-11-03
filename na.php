@@ -28,10 +28,10 @@ in html
         </header>
         <hr />
         <nav>
-            <a href="index.html">Home</a>
-            <a href="ds.html">Desktop Support</a>
-            <a href="sa.html">System Adminstrator</a>
-            <a href="na.html" class="active">Network Adminstrator</a>
+            <a href="index.php">Home</a>
+            <a href="ds.php">Desktop Support</a>
+            <a href="sa.php">System Adminstrator</a>
+            <a href="na.php" class="active">Network Adminstrator</a>
         </nav>
         
         <br /><br />
