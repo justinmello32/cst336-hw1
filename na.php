@@ -45,7 +45,9 @@ in html
                         <figcaption>Picture of network administrator working in a network center.</figcaption>
                     </div>
                     <div class="col">
-                        <p>A bunch of text here
+                        <p>Network administrators have similar responsibilities that a system administrator would except their primary focus is on the overall organization’s network infrastructure. Some of the responsibilities include building network infrastructure, managing servers and routers as well as managing firewalls and VPN. Individuals looking to be network administrators must have an incredible knowledge of networking interfaces as well as designing and implementing LANs.
+                        <p>Individuals looking to be a network administrator generally look into getting a CCNA (Cisco Certified Network Administrator) and Network +.
+                        <p><strong>Salary</strong>: $43,000 - $83,000
                             <div>
                             <a href="https://www.indeed.com/jobs?q=network+administrator&l=" class="btn btn-primary" role="button" target="_blank">View Network Administrator Jobs</a>
                         </div>
@@ -68,6 +70,7 @@ in html
                     </div>
                     <div class="col">
                         Sources: <a href="https://insights.dice.com/2018/09/05/system-administrator-interview-questions-take-broad-view/">Image Source</a>
+                        <a href="https://www.rasmussen.edu/degrees/technology/blog/what-does-a-network-administrator-do/">Text Source</a>
                     </div>
                 </div>
             </div>

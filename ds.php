@@ -71,8 +71,8 @@ in html
                     </div>
                     <div class="col">
                         <p>Sources: 
-                        <p><a href="https://www.study365.co.uk/product/microsoft-70-685-pro-windows-7-enterprise-desktop-support-technician-1340/">Image Source</a>
-                        <p><a href="https://www.fieldengineer.com/skills/desktop-support-technician#:~:text=Desktop%20Support%20Technician%20Job%20Description&text=Setting%20up%20the%20Organization's%20computer,%2C%20biometric%2C%20AV%20systems%20connections.">Text Source</a>
+                        <a href="https://www.study365.co.uk/product/microsoft-70-685-pro-windows-7-enterprise-desktop-support-technician-1340/">Image Source</a>
+                        <a href="https://www.fieldengineer.com/skills/desktop-support-technician#:~:text=Desktop%20Support%20Technician%20Job%20Description&text=Setting%20up%20the%20Organization's%20computer,%2C%20biometric%2C%20AV%20systems%20connections.">Text Source</a>
                     </div>
                 </div>
             </div>
