@@ -13,13 +13,11 @@ in html
 <!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8">
-        <title>Getting Started in IT</title>
-
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <title>System Adminstrator</title>
         
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
         <link href="css/styles.css" rel="stylesheet" type="text/css"/>
-
-
     </head>
 <!-- closing head -->
 
@@ -27,30 +25,33 @@ in html
     <!-- This is where we place the content of our website -->
     <body>
         <header>
-            <h1>Getting Started in IT</h1>
+            <h1>System Adminstrator</h1>
         </header>
         <hr />
         <nav>
-            <a href="index.php" class="active">Home</a>
-            <a href="ds.php">Desktop Support</a>
-            <a href="sa.php">System Adminstrator</a>
-            <a href="na.php">Network Adminstrator</a>
+            <a href="index.html">Home</a>
+            <a href="ds.html">Desktop Support</a>
+            <a href="sa.html" class="active">System Adminstrator</a>
+            <a href="na.html">Network Adminstrator</a>
         </nav>
-        <hr />
+        
         <br /><br />
         
         <main>
             <div class="container">
                 <div class="row">
                     <div id="leaderboard" class="col">
-                        <img src="img/it.jpg" class="img-fluid">
-                        <figcaption>Graphic for the exciting and dynamic field of IT</figcaption>
+                        <img src="img/system-administrator.jpg" class="img-fluid">
+                        <figcaption>Picture of System Adminstrator working in network center.</figcaption>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id turpis felis. Morbi et purus egestas, sagittis ante mollis, consequat felis. Nam in massa eu lorem porta tempor eu quis sapien. Aliquam erat volutpat. Nulla consequat velit quis lacus sagittis, sit amet condimentum ligula accumsan. Proin at posuere augue. Aliquam vitae nunc eleifend, malesuada ipsum a, rhoncus urna. Sed at facilisis magna. Pellentesque nibh arcu, porttitor at vulputate sed, pulvinar ut sapien. Etiam ut aliquam nisl, nec ultrices eros. In nulla nunc, malesuada in lobortis at, vehicula eu est.
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id turpis felis. Morbi et purus egestas, sagittis ante mollis, consequat felis. Nam in massa eu lorem porta tempor eu quis sapien. Aliquam erat volutpat. Nulla consequat velit quis lacus sagittis, sit amet condimentum ligula accumsan. Proin at posuere augue. Aliquam vitae nunc eleifend, malesuada ipsum a, rhoncus urna. Sed at facilisis magna. Pellentesque nibh arcu, porttitor at vulputate sed, pulvinar ut sapien. Etiam ut aliquam nisl, nec ultrices eros. In nulla nunc, malesuada in lobortis at, vehicula eu est.  
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id turpis felis. Morbi et purus egestas, sagittis ante mollis, consequat felis. Nam in massa eu lorem porta tempor eu quis sapien. Aliquam erat volutpat. Nulla consequat velit quis lacus sagittis, sit amet condimentum ligula accumsan. Proin at posuere augue. Aliquam vitae nunc eleifend, malesuada ipsum a, rhoncus urna. Sed at facilisis magna. Pellentesque nibh arcu, porttitor at vulputate sed, pulvinar ut sapien. Etiam ut aliquam nisl, nec ultrices eros. In nulla nunc, malesuada in lobortis at, vehicula eu est.
+                        <div>
+                            <a href="https://www.indeed.com/jobs?q=system+administrator&l=" class="btn btn-primary" role="button" target="_blank">View System Administrator Jobs</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -68,7 +69,7 @@ in html
                     <strong>Disclaimer:</strong> The information in this webpage is for CST336 Internet Programming, HW1
                     </div>
                     <div class="col">
-                        Sources: <a href="https://www.sourceonetechnology.com/desktop-support/">Image Source</a>
+                        Sources: <a href="https://www.fieldengineer.com/skills/what-is-a-system-administrator">Image Source</a>
                     </div>
                 </div>
             </div>

@@ -13,10 +13,9 @@ in html
 <!-- All styles and javascript go inside the head -->
     <head>
         <meta charset="utf-8">
-        <title>Desktop Support</title>
+        <title>Network Adminstrator</title>
         
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
         <link href="css/styles.css" rel="stylesheet" type="text/css"/>
     </head>
 <!-- closing head -->
@@ -25,29 +24,30 @@ in html
     <!-- This is where we place the content of our website -->
     <body>
         <header>
-            <h1>Desktop Support</h1>
+            <h1>Network Adminstrator</h1>
         </header>
         <hr />
         <nav>
-            <a href="index.php">Home</a>
-            <a href="ds.php" class="active">Desktop Support</a>
-            <a href="sa.php">System Adminstrator</a>
-            <a href="na.php">Network Adminstrator</a>
+            <a href="index.html">Home</a>
+            <a href="ds.html">Desktop Support</a>
+            <a href="sa.html">System Adminstrator</a>
+            <a href="na.html" class="active">Network Adminstrator</a>
         </nav>
         
         <br /><br />
         
         <main>
+            
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <img src="img/desktop-support.jpg" class="img-fluid">
-                        <figcaption>Picture of desktop support tech working the field.</figcaption>
+                        <img src="img/network-administrator.jpg" class="img-fluid">
+                        <figcaption>Picture of network administrator working in a network center.</figcaption>
                     </div>
                     <div class="col">
                         <p>A bunch of text here
                             <div>
-                            <a href="https://www.indeed.com/q-Desktop-Support-jobs.html" class="btn btn-primary" role="button" target="_blank">View Desktop Support Jobs</a>
+                            <a href="https://www.indeed.com/jobs?q=network+administrator&l=" class="btn btn-primary" role="button" target="_blank">View Network Administrator Jobs</a>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@ in html
                     <strong>Disclaimer:</strong> The information in this webpage is for CST336 Internet Programming, HW1
                     </div>
                     <div class="col">
-                        Sources: <a href="https://www.study365.co.uk/product/microsoft-70-685-pro-windows-7-enterprise-desktop-support-technician-1340/">Image Source</a>
+                        Sources: <a href="https://insights.dice.com/2018/09/05/system-administrator-interview-questions-take-broad-view/">Image Source</a>
                     </div>
                 </div>
             </div>
