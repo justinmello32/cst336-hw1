@@ -1,8 +1,10 @@
 body {
-    background-color: white;
+    background-color: #FAF7F6;
     color: black;
 }
-
+a {
+	color: blue;
+}
 header, main, nav, footer {
     text-align: center;
 }
@@ -12,6 +14,13 @@ nav a {
     font-size: 1.5em;
     text-decoration: none;   
     color: black;            
+}
+#leaderboard {
+	margin-bottom: 1rem;
+}
+figcaption {
+	font-size: .8em;
+	font-style: italic;
 }
 
 nav .active {
